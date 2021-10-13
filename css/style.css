@@ -1,0 +1,61 @@
+
+
+.jumbotron{
+    height: 80vh;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    color: rgb(214, 2, 2);
+    text-shadow: white 5px 5px;
+}
+
+
+.jumbo1{
+    font-family: 'Noto Sans Mono', monospace;
+    background-image: url(/img/finance-currency-business-money.jpg);
+}
+.First{
+    border: solid 10px red;
+    padding: 30px;
+
+}
+.jumbo2{
+    background-image: url(/img/88.jpg);
+}
+
+.second,.third,.fourth{
+    border: 1px solid white;
+    padding: 120px;
+background-color: rgba(0, 0, 0, 0.349); 
+}
+
+.jumbo3{
+    
+background-image: url(/img/sfgiants.jpg);
+
+font-family: 'Lato', sans-serif;
+}
+
+.jumbo4{
+background-image: url(/img/crypto.cccc.jpg);
+}
+
+.footer{
+    height: 15vh;
+    background-color: rgba(255, 0, 0, 0.925);
+}
+
+
+.button{
+    color: seashell;
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 15px;
+}
+.spin{
+    
+}
+
